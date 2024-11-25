@@ -4941,6 +4941,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   whole: {fileID: 7730631521664497013}
   sliced: {fileID: 7730631521865454868}
+  points: 1
 --- !u!1001 &7460724849916430372
 PrefabInstance:
   m_ObjectHideFlags: 0
